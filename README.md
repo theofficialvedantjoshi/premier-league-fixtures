@@ -7,6 +7,7 @@ Download the file and change the team_name variable with your teams name in lowe
 To add this file to your startup follow these steps:
 
 1.)Hit windows+r, a run terminal opens up.
+
 <img width="293" alt="image" src="https://github.com/theofficialvedantjoshi/premier-league-fixtures/assets/76871277/c841eef9-665a-4333-b9f7-d6dcf0a68e3f">
 
 2.)type shell:startup in the input.
